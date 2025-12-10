@@ -8,7 +8,7 @@ Define workflows with nodes and edges
 Support for different node types (function, condition, loop)
 Tool registry for reusable functions
 RESTful API for creating and running workflows
-WebSocket support for real-time execution updates
+WebSocket support for real-time execution updatess
 Code review workflow example
 Getting Started
 Prerequisites
